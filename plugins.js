@@ -1678,7 +1678,7 @@ formtowizard.prototype={
 			}
 		})
 	}
-}
+};
 
 formtowizard.routines={
 
@@ -1692,7 +1692,7 @@ formtowizard.routines={
 	setCookie:function(name, value){
 		document.cookie = name+"=" + value + ";path=/"
 	}
-}
+};
 
 
 
